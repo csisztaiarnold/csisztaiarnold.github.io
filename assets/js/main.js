@@ -1,12 +1,10 @@
 // Initial resize of the header
 function resizeHeader() {
     var windowHeight = window.innerHeight;
-    var topBar = document.getElementById("top-bar");
-    var topBarHeight = topBar.clientHeight;
     var header = document.getElementById("masthead");
-    header.setAttribute("style","height:" + (windowHeight-topBarHeight) + "px");
+    header.setAttribute("style","height:" + windowHeight + "px");
     var stroke = document.getElementById("stroke_1");
-    stroke.setAttribute("style","height:" + (windowHeight-topBarHeight-40) + "px");
+    stroke.setAttribute("style","height:" + (windowHeight - 40) + "px");
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
