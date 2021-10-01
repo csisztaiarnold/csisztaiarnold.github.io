@@ -1,6 +1,6 @@
 # The source code of my website
 
-The live version could be found at https://www.idevele.com
+The live version could be found at https://csisztaiarnold.github.io
 
 Some not too interesting tidbits:
 
