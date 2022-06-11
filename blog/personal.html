@@ -5,9 +5,8 @@ title: Personal topics
 exclude: true
 ---
 <div class="posts">
-    {% for post in site.categories['personal'] %}
     <ul class="post-list">
-        {%- for post in site.posts -%}
+        {% for post in site.categories.personal %}
         <li>
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -25,5 +24,4 @@ exclude: true
         </li>
         {% endfor %}
     </ul>
-    {% endfor %}
 </div>
