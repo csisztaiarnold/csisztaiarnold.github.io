@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Movies, travel, demoscene, running, programming, graphics, and much more! :)
 baseurl: "/zerosignal" # the subpath of your site, e.g. /blog
 url: "https://csisztaiarnold.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+live_url: "https://csisztaiarnold.github.io/zerosignal"
+#live_url: "http://127.0.0.1:4000/zerosignal"
 github_username: csisztaiarnold
 
 show_excerpts: true # set to true to show excerpts on the homepage
