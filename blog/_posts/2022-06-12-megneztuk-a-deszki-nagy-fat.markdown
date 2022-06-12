@@ -29,7 +29,7 @@ Valószínűleg a folyamatos rázkódás hatására az agyamban meglepő módon 
 <img src="{{ site.live_url }}/assets/img/deszki_nagy_fa/02_welcome_to_deszk.jpg" alt="Welcome to Deszk">
 <sub>Üdv Deszken!</sub>
 
-Deszkre beérve szomorúan konstatáltuk, hogy a kastélyt csak messziről csodálhatjuk meg, ugyanis a területére (ahol egy nagyobb, és elméletileg nagyon szép park is elterül) idegenek számára tilos a belépés. Nem igazán értem, hogy Deszk honlapján miért hirdetik olyan nagy vehemenciával látványosságként azt, amiből kb. csak a kerítést, néhány bokrot, és egy mozgás hatására villogó sorompót látni, de mindenesetre távolról egy egészen bizalomgerjesztő épületnek nézett ki. Érthető okokból sokat nem időztünk előtte, inkább megittunk egy kávét az út másik oldalán található, 80-as éveket idéző büfében, ahol mindenféle kétes minőségű finomságot lehetett kapni relative magas áron.
+Deszkre beérve szomorúan nyugtáztuk, hogy a kastélyt csak messziről csodálhatjuk meg, ugyanis a területére (ahol egy nagyobb, és elméletileg nagyon szép park is elterül) idegenek számára tilos a belépés. Nem igazán értem, hogy Deszk honlapján miért hirdetik olyan nagy vehemenciával látványosságként azt, amiből kb. csak a kerítést, néhány bokrot, és egy mozgás hatására villogó sorompót látni, de mindenesetre távolról egy egészen bizalomgerjesztő épületnek nézett ki. Érthető okokból sokat nem időztünk előtte, inkább megittunk egy kávét az út másik oldalán található, 80-as éveket idéző büfében, ahol mindenféle kétes minőségű finomságot lehetett kapni relative magas áron.
 
 <img src="{{ site.live_url }}/assets/img/deszki_nagy_fa/03_gerliczy_kastely.jpg" alt="Gerliczy-kastély">
 <sub>Majd ha egyszer tüdőbeteg leszek, talán láthatom közelebbről is 😊</sub>
