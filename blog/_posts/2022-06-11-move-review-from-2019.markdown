@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "What movies/series have I seen in February (2019)?"
-date:   2022-06-10 17:58:26 +0200
+date:   2022-06-11 17:58:26 +0200
 categories: movies
 ---
-<img src="{{site.baseurl}}/assets/img/review.jpg" alt="Movie reviews" width="100%">
+<img src="{{ site.live_url }}/assets/img/review.jpg" alt="Movie reviews" width="100%">
 
 I've posted this on my Facebook page in 2019. A bunch of movies I've seen in the beginning of the year.
 
 <!--more-->
 
 \
+🤢 - pure garbage  
 🤷‍♂️ - kinda okay (watch it and forget it)  
 👍 - recommended  
 🤯 - highly recommended  
-🤢 - pure garbage
 
 \
 **[12 Strong (2018)](https://www.imdb.com/title/tt1413492/reference)** 🤷‍♂️  
@@ -37,13 +37,13 @@ Watch it once and forget it.
 
 Willem Dafoe plays Vincent van Gogh in this one, and he's probably the only eminent part of the movie. I was expecting more vibrant color grading, considering the movie is about one of the most unique painters of our time - but apart from a few truly beautiful scenes, most of the movie looked dull and washed out.
 
-Watch it once and forget it. If you want to see a better movie about van Gogh, check out Loving Vincent.
+Watch it once and forget it. If you want to see a better movie about van Gogh, check out [Loving Vincent](https://www.imdb.com/title/tt3262342/reference).
 
 <p align="center">...</p>
 
 **[Beautiful Boy (2018)](https://www.imdb.com/title/tt1226837)** 👍
 
-As far as drug related movies are considered, I found this one more disturbing than Requiem for a Dream. Amazing soundtrack, stunning performance from Timothée Chalamet, but I was slightly disappointed about Steve Carell.
+As far as drug related movies are considered, I found this one more disturbing than [Requiem for a Dream](https://www.imdb.com/title/tt0180093/reference). Amazing soundtrack, stunning performance from Timothée Chalamet, but I was slightly disappointed about Steve Carell.
 
 Recommended.
 

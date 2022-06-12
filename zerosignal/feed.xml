@@ -1,27 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/zerosignal/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/zerosignal/" rel="alternate" type="text/html" /><updated>2022-06-11T12:24:05+02:00</updated><id>http://localhost:4000/zerosignal/feed.xml</id><title type="html">Zero Signal</title><subtitle>Movies, travel, demoscene, running, programming, graphics, and much more! :)</subtitle><entry><title type="html">Let’s start the journey!</title><link href="http://localhost:4000/zerosignal/personal/lets-start-the-journey/" rel="alternate" type="text/html" title="Let’s start the journey!" /><published>2022-06-10T17:58:26+02:00</published><updated>2022-06-10T17:58:26+02:00</updated><id>http://localhost:4000/zerosignal/personal/lets-start-the-journey</id><content type="html" xml:base="http://localhost:4000/zerosignal/personal/lets-start-the-journey/"><![CDATA[<p><img src="/zerosignal/assets/img/autumn-road-through-the-forest-2210x1473.jpg" alt="Let's start the journey!" />
-<sub><sup>Image from <a href="https://picjumbo.com">picjumbo</a>.</sup></sub></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/zerosignal/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/zerosignal/" rel="alternate" type="text/html" /><updated>2022-06-12T09:33:28+02:00</updated><id>http://localhost:4000/zerosignal/feed.xml</id><title type="html">Zero Signal</title><subtitle>Movies, travel, hiking, demoscene, running, programming, graphics, and much more! :)</subtitle><entry><title type="html">Megnéztük a deszki Öreg Tölgyet</title><link href="http://localhost:4000/zerosignal/magyar/megneztuk-a-deszki-nagy-fat/" rel="alternate" type="text/html" title="Megnéztük a deszki Öreg Tölgyet" /><published>2022-06-12T08:38:26+02:00</published><updated>2022-06-12T08:38:26+02:00</updated><id>http://localhost:4000/zerosignal/magyar/megneztuk-a-deszki-nagy-fat</id><content type="html" xml:base="http://localhost:4000/zerosignal/magyar/megneztuk-a-deszki-nagy-fat/"><![CDATA[<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/00_deszk.jpg" alt="Deszk" /></p>
 
-<p>So, this is the first post on my new blog, but <strong>Zero Signal</strong> will be less of a typical blog and more a periodical, “quick checking-in” journal of my everyday life.</p>
+<p>Péntek este megbeszéltük a párommal, hogy hétvégén aktív pihenéssel vezetjük le a heti feszültséget, és megteszünk egy közepes, élvezhető távot kerékpárral, de mivel Szeged 15-20 kilométeres körzetében már csaknem minden helyet bebarangoltunk és szinte az útmenti bokrokat is név szerint ismerjük, elég nehéz volt találni olyan kuriózumot, amelyet még egyikünk sem ismer… 🤔</p>
 
 <!--more-->
 
-<p>I’ve had a few of blogs in the past dealing with different topics, but after a while I’ve lost interest in all of them and they were short-lived, so hopefully this one will get a bit of traction and I’ll update it more regularly.</p>
+<p>Kb. fél óra indulatos térképböngészés után az addig számunkra teljesen idegen Deszki-tóra esett a választásom, ami voltaképp egyáltalán nem tűnt egy túl izgalmas látnivalónak, de mivel már régóta terveztem felmérni a kerékpárút minőségét a tündérmesébe illő <a href="https://www.google.com/maps/dir/Szeged/46.2213105,20.1977881/Deszk,+6772/Kl%C3%A1rafalva/@46.2273149,20.2030193,13.25z/data=!4m26!4m25!1m10!1m1!1s0x474487e22bcce54b:0x400c4290c1e1190!2m2!1d20.1414253!2d46.2530102!3m4!1m2!1d20.1950538!2d46.2225982!3s0x4744890c1a4f5d03:0x81397be47b795356!1m0!1m5!1m1!1s0x47448a32908a1e9b:0xc75ca071cfd94350!2m2!1d20.2404106!2d46.2179603!1m5!1m1!1s0x47448ac22959f9eb:0x35b8a14a5bbb410f!2m2!1d20.3255224!2d46.220953!3e1">Szeged - Szőreg - Deszk - Klárafalva távon</a>, a tó meglátogatásának ötlete voltaképp pont kapóra jött.</p>
 
-<p>I will probably mostly write about the movies I’ve seen, the places I’ve traveled or hiked to, a bit about the demoscene, and I’ll possibly have a few posts about programming, graphics, and/or just random posts about nothing :)</p>
+<p>És ha már arra vettük az irányt, úgy terveztük, hogy megnézzük a Deszk központjában található, Mellkasi Betegségek Szakkórházává átalakított lélegzetelállító <a href="https://deszk.hu/ourcauses/gerliczy-kastely-2/">Gerliczy-kastélyt</a> és a <em>feketébe öltözött kócos depressziós tini</em> (é. neogót) stílusban épített <a href="https://deszk.hu/ourcauses/deszki-magyarok-nagyasszonya-templom/">Magyarok Nagyasszonya templomot</a> is, mivel igaz, hogy elég sokszor utaztunk már át a községen, de komolyabb érdeklődés hiányában még sosem álltunk meg tüzetesebben megfigyelni az épületeket.</p>
 
-<p>Some technical background: I was thinking a lot if I should build up a blog engine on my own, or use a ready-made one, but in the end, in order to keep the site on GitHub, I’ve decided beside a static site generator, <a href="https://jekyllrb.com/">Jekyll</a>. It’s absolutely awesome so far :)</p>
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/05_magyarok_nagyasszonya_templom.jpg" alt="Magyarok Nagyasszonya templom" />
+<sub>Magyarok Nagyasszonya templom.</sub></p>
 
-<p>Oh, and why Zero Signal? It’s one of my <a href="https://www.youtube.com/watch?v=HNvqcwIV8B0">favorite songs from Fear Factory</a> :)</p>]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Image from picjumbo. So, this is the first post on my new blog, but Zero Signal will be less of a typical blog and more a periodical, “quick checking-in” journal of my everyday life.]]></summary></entry><entry><title type="html">What movies/series have I seen in February (2019)?</title><link href="http://localhost:4000/zerosignal/movies/move-review-from-2019/" rel="alternate" type="text/html" title="What movies/series have I seen in February (2019)?" /><published>2022-06-10T17:58:26+02:00</published><updated>2022-06-10T17:58:26+02:00</updated><id>http://localhost:4000/zerosignal/movies/move-review-from-2019</id><content type="html" xml:base="http://localhost:4000/zerosignal/movies/move-review-from-2019/"><![CDATA[<p><img src="/zerosignal/assets/img/review.jpg" alt="Movie reviews" width="100%" /></p>
+<p>Szegedről 2-kor indultunk el, erős szélfúvással és még intenzívebb napsütéssel kísérve. A szél szerencsére hátba fújt minket, a leégés ellen pedig 20-as faktorú naptejet kentünk magunkra, ennélfogva odafelé nem volt semmi okunk panaszra.</p>
+
+<p>A 43-as főút mellett egészen Szőregig vagy kifogástalan kerékpárúton, vagy a főúttal párhuzamos alacsony forgalmú betonúton haladtunk, viszont a szőregi körforgalom után hirtelen nagyot romlott a helyzet. Deszkig belső szervekeinket különböző testnyílásainkon át kirázó hullámvasút-hangulatot keltett a toldozott-foldozott, kátyúkkal, valamint az útmenti fák gyökerei által kipréselt púpokkal bordázott bicikliút. Mondjuk az autóút sem volt sokkal jobb állapotban, de a gépkocsikkal ellentétben mi legalább aránylag könnyebben ki tudtuk kerülni az előttünk feltűnő mélyebb krátereket.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/01_deszk_fele.jpg" alt="Deszk felé" />
+<sub>Itt még Deszk előtt, a bicikliút többé-kevésbé járható.</sub></p>
+
+<p>Valószínűleg a folyamatos rázkódás hatására az agyamban meglepő módon gondolkodást serkentő folyamatok mentek végbe, ugyanis közben eszembe jutott, hogy Deszk határában van Csongrád-Csanád megye egyik méltán világhírű nevezetessége: a régió legnagyobb tölgyfája, amely 2014-ben még az <a href="https://evfaja.hu/fa/2014/deszki-oreg-fa-matuzsalem">Év Fája versenyben is részt vett</a>, sejtésem szerint nem önként. Konstatáltuk is, hogy még egyikünk sem látta, ebből adódóan sebtében meg is változtattuk fő úticélunkat.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/02_welcome_to_deszk.jpg" alt="Welcome to Deszk" />
+<sub>Üdv Deszken!</sub></p>
+
+<p>Deszkre beérve szomorúan konstatáltuk, hogy a kastélyt csak messziről csodálhatjuk meg, ugyanis a területére (ahol egy nagyobb, és elméletileg nagyon szép park is elterül) idegenek számára tilos a belépés. Nem igazán értem, hogy Deszk honlapján miért hirdetik olyan nagy vehemenciával látványosságként azt, amiből kb. csak a kerítést, néhány bokrot, és egy mozgás hatására villogó sorompót látni, de mindenesetre távolról egy egészen bizalomgerjesztő épületnek nézett ki. Érthető okokból sokat nem időztünk előtte, inkább megittunk egy kávét az út másik oldalán található, 80-as éveket idéző büfében, ahol mindenféle kétes minőségű finomságot lehetett kapni relative magas áron.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/03_gerliczy_kastely.jpg" alt="Gerliczy-kastély" />
+<sub>Majd ha egyszer tüdőbeteg leszek, talán láthatom közelebbről is 😊</sub></p>
+
+<p>Deszknek egy érdekessége, hogy elég sok helyen láthatóak cirill feliratok, mivel kb. 5%-ban szerbek lakják. Ennek ellenére a település nyugalmasnak tűnik, rendezett és tiszta. Fő pozitívuma, hogy kocsmákban igen gazdag, minimum ötöt sikerült összeszámolnom csupán a főutcán, kb. 1 km-es távlatban.</p>
+
+<p>A Maros menti metropoliszból kiérve kb. még kb. 5 kilométeren át létezik bicikliút bizonyos fokig járható formában, amely Klárafalva előtt mindenféle előzmény nélkül megszakad, és csak Kiszombor végétől folytatódik tovább Makóig, majd Apátfalván és Magyarcsanádon át Nagylakig.</p>
+
+<p>Tudtommal a Szeged - Nagylak kerékpárút kiépítésekor (vagyis inkább bővítésekor) majd pótolni fogják a hiányzó bicóutat, addig viszont a töltésre feltekerve, kerülővel lehet elérni az útba eső falvakat.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/04_a_tolgy_fele.jpg" alt="A tölgy felé" />
+<sub>Innen már csak pár perc a kocsányos tölgy.</sub></p>
+
+<p>Mivel mi nem akartuk megcsodálni az egyébként minden bizonnyal vérpezsdítő Klárafalvát, a Deszk-Fehértói főcsatorna melletti úton (<a href="(https://www.google.com/maps/place/46%C2%B013'07.2%22N+20%C2%B017'11.0%22E/@46.2186643,20.2850605,17z/)">GPS: 46.2186643,20.2850605</a>) elindultunk a fentebb említett tölgyfa felé, amelyet elég gyorsan és könnyen meg is találtunk (<a href="https://www.google.com/maps/place/Deszki+nagy+fa/@46.2333698,20.2781849,71m/">GPS: 46.2333698,20.2781849</a>).</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/06_oreg_tolgy.jpg" alt="Az Öreg Tölgy" />
+<sub>Így néz ki az Öreg Tölgy. Van egy szemetes és pad is mellette.</sub></p>
+
+<p>Amit érdemes tudni róla, hogy több mint 300 éves, 26-27 méter magas, és 6 méter az átmérője. Egyes legendák szerint anno Rózsa Sándor is itt lógott a huligán haverjaival és együtt stírölték a Maros partján szennyest mosó menyecskéket.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/07_oreg_tolgy.jpg" alt="Az Öreg Tölgy" />
+<sub>Itt éppen fa képnél hagyom Mártit (he-he).</sub></p>
+
+<p>Néhány perc önfeledt ámuldozás és az info-tábla tüzetes áttanulmányozása után a töltés nyomvonalán visszaindultunk Szegedre, de még nem mulasztottuk el megnézni a Marost, majd a folyótól a főút felé letérve egy kis kerülővel elhaladtunk a Deszki-tó mellett, melytől nem messze véletlenül belefutottunk az <a href="https://deszk.hu/ourcauses/az-orszag-legnagyobb-egybefuggo-rozsakertje/">ország legnagyobb egybefüggő rózsakertjébe</a> is. Őszintén szólva nekem nem tűnt hű de nagynak, de az volt a sanda gyanúm, hogy a környéken van még néhány hasonló kert, és ez egy kisebb fajta volt.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/08_maros.jpg" alt="Maros" />
+<sub>A Maros.</sub></p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/09_rozsa.jpg" alt="Rózsakert" />
+<sub>Egy rózsaültetvény. Én a szagából elég keveset éreztem az allergiám miatt, de Márti szerint kellemes illata volt.</sub></p>
+
+<p>A töltésen Deszktől Szeged felé véletlenszerű szakaszokban borzasztó az út, és kb. csak a Tisza-Maros torkolat vonalánál javul meg tartósan. Odáig még a kátyúk is kátyúsak, szóval csak elég lassan és körültekintően lehet haladni.</p>
+
+<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/deszki_nagy_fa/10_buza.jpg" alt="Búzaföld" />
+<sub>Valahol a Deszki-tó közelében.</sub></p>
+
+<p>A teljes táv 31.4km volt, laza biciklizéssel és néhány rövidebb pihenővel kb. 2.5 órát vett igénybe. Többé-kevésbé élménygazdag, de könnyed túrának jellemezném, akár gyermekkel is simán végigvihető.</p>
+
+<div align="center">
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7291272620"></div><script src="https://strava-embeds.com/embed.js"></script></div>]]></content><author><name></name></author><category term="magyar" /><summary type="html"><![CDATA[Péntek este megbeszéltük a párommal, hogy hétvégén aktív pihenéssel vezetjük le a heti feszültséget, és megteszünk egy közepes, élvezhető távot kerékpárral, de mivel Szeged 15-20 kilométeres körzetében már csaknem minden helyet bebarangoltunk és szinte az útmenti bokrokat is név szerint ismerjük, elég nehéz volt találni olyan kuriózumot, amelyet még egyikünk sem ismer… 🤔]]></summary></entry><entry><title type="html">What movies/series have I seen in February (2019)?</title><link href="http://localhost:4000/zerosignal/movies/move-review-from-2019/" rel="alternate" type="text/html" title="What movies/series have I seen in February (2019)?" /><published>2022-06-11T17:58:26+02:00</published><updated>2022-06-11T17:58:26+02:00</updated><id>http://localhost:4000/zerosignal/movies/move-review-from-2019</id><content type="html" xml:base="http://localhost:4000/zerosignal/movies/move-review-from-2019/"><![CDATA[<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/review.jpg" alt="Movie reviews" width="100%" /></p>
 
 <p>I’ve posted this on my Facebook page in 2019. A bunch of movies I’ve seen in the beginning of the year.</p>
 
 <!--more-->
 
 <p><br />
+🤢 - pure garbage<br />
 🤷‍♂️ - kinda okay (watch it and forget it)<br />
 👍 - recommended<br />
-🤯 - highly recommended<br />
-🤢 - pure garbage</p>
+🤯 - highly recommended</p>
 
 <p><br />
 <strong><a href="https://www.imdb.com/title/tt1413492/reference">12 Strong (2018)</a></strong> 🤷‍♂️</p>
@@ -44,13 +96,13 @@
 
 <p>Willem Dafoe plays Vincent van Gogh in this one, and he’s probably the only eminent part of the movie. I was expecting more vibrant color grading, considering the movie is about one of the most unique painters of our time - but apart from a few truly beautiful scenes, most of the movie looked dull and washed out.</p>
 
-<p>Watch it once and forget it. If you want to see a better movie about van Gogh, check out Loving Vincent.</p>
+<p>Watch it once and forget it. If you want to see a better movie about van Gogh, check out <a href="https://www.imdb.com/title/tt3262342/reference">Loving Vincent</a>.</p>
 
 <p align="center">...</p>
 
 <p><strong><a href="https://www.imdb.com/title/tt1226837">Beautiful Boy (2018)</a></strong> 👍</p>
 
-<p>As far as drug related movies are considered, I found this one more disturbing than Requiem for a Dream. Amazing soundtrack, stunning performance from Timothée Chalamet, but I was slightly disappointed about Steve Carell.</p>
+<p>As far as drug related movies are considered, I found this one more disturbing than <a href="https://www.imdb.com/title/tt0180093/reference">Requiem for a Dream</a>. Amazing soundtrack, stunning performance from Timothée Chalamet, but I was slightly disappointed about Steve Carell.</p>
 
 <p>Recommended.</p>
 
@@ -320,4 +372,17 @@ Definitely recommended!</p>
 
 <p><strong><a href="https://www.imdb.com/title/tt7520794/reference">Russian Doll - Season 1 (one and a half episode)</a></strong> 🤢</p>
 
-<p>A Groundhog Day ripoff with a really irritating, embarrassingly terrible lead character. The reason why I have lasted a bit more than one episode, is because they’re really short.</p>]]></content><author><name></name></author><category term="movies" /><summary type="html"><![CDATA[I’ve posted this on my Facebook page in 2019. A bunch of movies I’ve seen in the beginning of the year.]]></summary></entry></feed>
+<p>A Groundhog Day ripoff with a really irritating, embarrassingly terrible lead character. The reason why I have lasted a bit more than one episode, is because they’re really short.</p>]]></content><author><name></name></author><category term="movies" /><summary type="html"><![CDATA[I’ve posted this on my Facebook page in 2019. A bunch of movies I’ve seen in the beginning of the year.]]></summary></entry><entry><title type="html">Let’s start the journey!</title><link href="http://localhost:4000/zerosignal/personal/lets-start-the-journey/" rel="alternate" type="text/html" title="Let’s start the journey!" /><published>2022-06-10T17:58:26+02:00</published><updated>2022-06-10T17:58:26+02:00</updated><id>http://localhost:4000/zerosignal/personal/lets-start-the-journey</id><content type="html" xml:base="http://localhost:4000/zerosignal/personal/lets-start-the-journey/"><![CDATA[<p><img src="https://csisztaiarnold.github.io/zerosignal/assets/img/autumn-road-through-the-forest-2210x1473.jpg" alt="Let's start the journey!" />
+<sub><sup>Image from <a href="https://picjumbo.com">picjumbo</a>.</sup></sub></p>
+
+<p>So, this is the first post on my new blog, but <strong>Zero Signal</strong> will be less of a typical blog and more a periodical, “quick checking-in” journal of my everyday life.</p>
+
+<!--more-->
+
+<p>I’ve had a few of blogs in the past dealing with different topics, but after a while I’ve lost interest in all of them and they were short-lived, so hopefully this one will get a bit of traction and I’ll update it more regularly.</p>
+
+<p>I will probably mostly write about the movies I’ve seen, the places I’ve traveled or hiked to, a bit about the demoscene, and I’ll possibly have a few posts about programming, graphics, and/or just random posts about nothing :)</p>
+
+<p>Some technical background: I was thinking a lot if I should build up a blog engine on my own, or use a ready-made one, but in the end, in order to keep the site hosted on GitHub Pages, I’ve decided beside a static site generator, <a href="https://jekyllrb.com/">Jekyll</a>. It’s absolutely awesome so far :)</p>
+
+<p>Oh, and why Zero Signal? It’s one of my <a href="https://www.youtube.com/watch?v=HNvqcwIV8B0">favorite songs from Fear Factory</a> :)</p>]]></content><author><name></name></author><category term="personal" /><summary type="html"><![CDATA[Image from picjumbo. So, this is the first post on my new blog, but Zero Signal will be less of a typical blog and more a periodical, “quick checking-in” journal of my everyday life.]]></summary></entry></feed>

@@ -21,7 +21,7 @@
 title: Zero Signal
 email: csisztai.arnold@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Movies, travel, demoscene, running, programming, graphics, and much more! :)
+  Movies, travel, hiking, demoscene, running, programming, graphics, and much more! :)
 baseurl: "/zerosignal" # the subpath of your site, e.g. /blog
 url: "https://csisztaiarnold.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 live_url: "https://csisztaiarnold.github.io/zerosignal"
