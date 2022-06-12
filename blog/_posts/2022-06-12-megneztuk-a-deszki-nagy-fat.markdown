@@ -6,7 +6,7 @@ categories: magyar
 ---
 <img src="{{ site.live_url }}/assets/img/deszki_nagy_fa/00_deszk.jpg" alt="Deszk">
 
-Péntek este megbeszéltük a párommal, hogy hétvégén aktív pihenéssel vezetjük le a heti feszültséget, és megteszünk egy közepes, élvezhető távot kerékpárral, de mivel Szeged 15-20 kilométeres körzetében már csaknem minden helyet bebarangoltunk és szinte az útmenti bokrokat is név szerint ismerjük, elég nehéz volt találni olyan kuriózumot, amelyet még egyikünk sem ismer... 🤔
+Péntek este megbeszéltük a párommal, hogy hétvégén aktív pihenéssel vezetjük le a heti feszültséget, és megteszünk egy közepes, élvezhető távot kerékpárral, de mivel Szeged 15-20 kilométeres körzetében már csaknem minden helyet bebarangoltunk és szinte az útmenti bokrokat is név szerint ismerjük, elég nehéz volt találni olyan kuriózumot, amelyet még egyikünk sem látott... 🤔
 
 <!--more--> 
 
