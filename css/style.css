@@ -1,0 +1,88 @@
+body, html {
+  padding: 0;
+  margin: 20px 0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  color: #444; }
+  body h1, body h2, body h3, html h1, html h2, html h3 {
+    padding: 0;
+    margin: 0; }
+  body h1, html h1 {
+    font-family: 'Scope One', serif;
+    font-weight: 400;
+    font-size: 3.6em;
+    line-height: 1;
+    color: #222; }
+    @media screen and (max-width: 1130px) {
+      body h1, html h1 {
+        font-size: 3em; } }
+    @media screen and (max-width: 980px) {
+      body h1, html h1 {
+        font-size: 2.8em; } }
+    @media screen and (max-width: 900px) {
+      body h1, html h1 {
+        text-align: center;
+        font-size: 3.6em; } }
+  body h2, html h2 {
+    margin-bottom: 40px;
+    font-size: 1.4em;
+    font-weight: 400; }
+    @media screen and (max-width: 900px) {
+      body h2, html h2 {
+        text-align: center; } }
+  body h3, html h3 {
+    font-family: 'Scope One', serif;
+    font-size: 1.8em;
+    margin: 0 0 20px 0;
+    color: #335ec0; }
+  body p, html p {
+    font-size: 1em;
+    line-height: 1.6em; }
+  body .container, html .container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    padding: 0 40px; }
+    @media screen and (max-width: 900px) {
+      body .container, html .container {
+        display: unset;
+        padding: unset; } }
+    body .container #first-column, html .container #first-column {
+      width: 38%;
+      margin-right: 2%; }
+      @media screen and (max-width: 900px) {
+        body .container #first-column, html .container #first-column {
+          width: auto;
+          margin: auto;
+          padding: 0 30px; } }
+      body .container #first-column #profile-image, html .container #first-column #profile-image {
+        margin-bottom: 40px;
+        border-radius: 50%; }
+      body .container #first-column #contact, html .container #first-column #contact {
+        margin: 40px 0 40px 0;
+        font-size: 1em;
+        line-height: 1.6em; }
+        @media screen and (max-width: 900px) {
+          body .container #first-column #contact, html .container #first-column #contact {
+            text-align: center; } }
+        body .container #first-column #contact a, html .container #first-column #contact a {
+          color: #335ec0; }
+      body .container #first-column #work-experience .work-experience-container, html .container #first-column #work-experience .work-experience-container {
+        margin: 0 0 20px 0; }
+        body .container #first-column #work-experience .work-experience-container small, html .container #first-column #work-experience .work-experience-container small {
+          font-size: 0.7em;
+          color: #777; }
+    body .container #second-column, html .container #second-column {
+      width: 58%;
+      margin-left: 2%; }
+      @media screen and (max-width: 900px) {
+        body .container #second-column, html .container #second-column {
+          width: auto;
+          margin: auto;
+          padding: 20px 30px 0 30px; } }
+      body .container #second-column .about-me, html .container #second-column .about-me {
+        margin-bottom: 40px; }
+      body .container #second-column .skill-container, html .container #second-column .skill-container {
+        margin: 0 0 20px 0; }
+
+/*# sourceMappingURL=style.css.map */

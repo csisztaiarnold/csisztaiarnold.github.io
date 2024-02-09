@@ -1,0 +1,128 @@
+body, html {
+  padding: 0;
+  margin: 20px 0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  color: #444;
+
+  h1, h2, h3 {
+    padding: 0;
+    margin: 0;
+  }
+
+  h1 {
+    font-family: 'Scope One', serif;
+    font-weight: 400;
+    font-size: 3.6em;
+    line-height: 1;
+    color: #222;
+
+    @media screen and (max-width: 1130px) {
+      font-size: 3em;
+    }
+
+    @media screen and (max-width: 980px) {
+      font-size: 2.8em;
+    }
+
+    @media screen and (max-width: 900px) {
+      text-align: center;
+      font-size: 3.6em;
+    }
+  }
+
+  h2 {
+    margin-bottom: 40px;
+    font-size: 1.4em;
+    font-weight: 400;
+
+    @media screen and (max-width: 900px) {
+      text-align: center;
+    }
+  }
+
+  h3 {
+    font-family: 'Scope One', serif;
+    font-size: 1.8em;
+    margin: 0 0 20px 0;
+    color: #335ec0;
+  }
+
+  p {
+    font-size: 1em;
+    line-height: 1.6em;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    padding: 0 40px;
+
+    @media screen and (max-width: 900px) {
+      display: unset;
+      padding: unset;
+    }
+
+    #first-column {
+      width: 38%;
+      margin-right: 2%;
+
+      @media screen and (max-width: 900px) {
+        width: auto;
+        margin: auto;
+        padding: 0 30px;
+      }
+
+      #profile-image {
+        margin-bottom: 40px;
+        border-radius: 50%;
+      }
+
+      #contact {
+        margin: 40px 0 40px 0;
+        font-size: 1em;
+        line-height: 1.6em;
+
+        @media screen and (max-width: 900px) {
+          text-align: center;
+        }
+
+        a {
+          color: #335ec0;
+        }
+      }
+
+      #work-experience {
+
+        .work-experience-container {
+          margin: 0 0 20px 0;
+
+          small {
+            font-size: 0.7em;
+            color: #777;
+          }
+        }
+      }
+    }
+
+    #second-column {
+      width: 58%;
+      margin-left: 2%;
+
+      @media screen and (max-width: 900px) {
+        width: auto;
+        margin: auto;
+        padding: 20px 30px 0 30px;
+      }
+
+      .about-me {
+        margin-bottom: 40px;
+      }
+
+      .skill-container {
+        margin: 0 0 20px 0;
+      }
+    }
+  }
+}
