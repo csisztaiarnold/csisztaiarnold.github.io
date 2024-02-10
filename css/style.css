@@ -85,7 +85,7 @@ body, html {
       @media screen and (max-width: 900px) {
         body .container #about-me, html .container #about-me {
           margin: unset;
-          padding: 40px 20px 0 20px; } }
+          padding: 20px 20px 0 20px; } }
     body .container #skills, html .container #skills {
       order: 3;
       margin-left: -80px; }
