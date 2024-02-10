@@ -46,6 +46,10 @@ body, html {
     font-size: 1.8em;
     margin: 0 0 20px 0;
     color: #335ec0;
+
+    @media screen and (max-width: 900px) {
+      text-align: center;
+    }
   }
 
   p {
@@ -56,22 +60,25 @@ body, html {
   .container {
     max-width: 1200px;
     margin: auto;
-    display: flex;
+    columns: 2;
+    column-gap: 120px;
     padding: 0 40px;
 
     @media screen and (max-width: 900px) {
-      display: unset;
+      display: flex;
+      flex-direction: column;
       padding: unset;
     }
 
-    #first-column {
-      width: 38%;
-      margin-right: 2%;
+    #contact {
+      margin: 0 0 40px 0;
+      font-size: 1em;
+      line-height: 1.6em;
+      order: 1;
 
       @media screen and (max-width: 900px) {
-        width: auto;
-        margin: auto;
-        padding: 0 30px;
+        text-align: center;
+        padding: 0 20px;
       }
 
       #profile-image {
@@ -79,45 +86,48 @@ body, html {
         border-radius: 50%;
       }
 
-      #contact {
-        margin: 40px 0 40px 0;
-        font-size: 1em;
-        line-height: 1.6em;
+      a {
+        color: #335ec0;
+      }
+    }
 
-        @media screen and (max-width: 900px) {
-          text-align: center;
-        }
+    #work-experience {
+      order: 4;
 
-        a {
-          color: #335ec0;
-        }
+      @media screen and (max-width: 900px) {
+        margin: unset;
+        padding: 40px 20px 0 20px;
       }
 
-      #work-experience {
+      .work-experience-container {
+        margin: 0 0 20px 0;
 
-        .work-experience-container {
-          margin: 0 0 20px 0;
-
-          small {
-            font-size: 0.7em;
-            color: #777;
-          }
+        small {
+          font-size: 0.7em;
+          color: #777;
         }
       }
     }
 
-    #second-column {
-      width: 58%;
-      margin-left: 2%;
+    #about-me {
+      margin-left: -80px;
+      margin-bottom: 40px;
+      order: 2;
+      break-before: column;
 
       @media screen and (max-width: 900px) {
-        width: auto;
-        margin: auto;
-        padding: 20px 30px 0 30px;
+        margin: unset;
+        padding: 40px 20px 0 20px;
       }
+    }
 
-      .about-me {
-        margin-bottom: 40px;
+    #skills {
+      order: 3;
+      margin-left: -80px;
+
+      @media screen and (max-width: 900px) {
+        margin: unset;
+        padding: 40px 20px 0 20px;
       }
 
       .skill-container {

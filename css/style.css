@@ -35,54 +35,65 @@ body, html {
     font-size: 1.8em;
     margin: 0 0 20px 0;
     color: #335ec0; }
+    @media screen and (max-width: 900px) {
+      body h3, html h3 {
+        text-align: center; } }
   body p, html p {
     font-size: 1em;
     line-height: 1.6em; }
   body .container, html .container {
     max-width: 1200px;
     margin: auto;
-    display: flex;
+    columns: 2;
+    column-gap: 120px;
     padding: 0 40px; }
     @media screen and (max-width: 900px) {
       body .container, html .container {
-        display: unset;
+        display: flex;
+        flex-direction: column;
         padding: unset; } }
-    body .container #first-column, html .container #first-column {
-      width: 38%;
-      margin-right: 2%; }
+    body .container #contact, html .container #contact {
+      margin: 0 0 40px 0;
+      font-size: 1em;
+      line-height: 1.6em;
+      order: 1; }
       @media screen and (max-width: 900px) {
-        body .container #first-column, html .container #first-column {
-          width: auto;
-          margin: auto;
-          padding: 0 30px; } }
-      body .container #first-column #profile-image, html .container #first-column #profile-image {
+        body .container #contact, html .container #contact {
+          text-align: center;
+          padding: 0 20px; } }
+      body .container #contact #profile-image, html .container #contact #profile-image {
         margin-bottom: 40px;
         border-radius: 50%; }
-      body .container #first-column #contact, html .container #first-column #contact {
-        margin: 40px 0 40px 0;
-        font-size: 1em;
-        line-height: 1.6em; }
-        @media screen and (max-width: 900px) {
-          body .container #first-column #contact, html .container #first-column #contact {
-            text-align: center; } }
-        body .container #first-column #contact a, html .container #first-column #contact a {
-          color: #335ec0; }
-      body .container #first-column #work-experience .work-experience-container, html .container #first-column #work-experience .work-experience-container {
+      body .container #contact a, html .container #contact a {
+        color: #335ec0; }
+    body .container #work-experience, html .container #work-experience {
+      order: 4; }
+      @media screen and (max-width: 900px) {
+        body .container #work-experience, html .container #work-experience {
+          margin: unset;
+          padding: 40px 20px 0 20px; } }
+      body .container #work-experience .work-experience-container, html .container #work-experience .work-experience-container {
         margin: 0 0 20px 0; }
-        body .container #first-column #work-experience .work-experience-container small, html .container #first-column #work-experience .work-experience-container small {
+        body .container #work-experience .work-experience-container small, html .container #work-experience .work-experience-container small {
           font-size: 0.7em;
           color: #777; }
-    body .container #second-column, html .container #second-column {
-      width: 58%;
-      margin-left: 2%; }
+    body .container #about-me, html .container #about-me {
+      margin-left: -80px;
+      margin-bottom: 40px;
+      order: 2;
+      break-before: column; }
       @media screen and (max-width: 900px) {
-        body .container #second-column, html .container #second-column {
-          width: auto;
-          margin: auto;
-          padding: 20px 30px 0 30px; } }
-      body .container #second-column .about-me, html .container #second-column .about-me {
-        margin-bottom: 40px; }
-      body .container #second-column .skill-container, html .container #second-column .skill-container {
+        body .container #about-me, html .container #about-me {
+          margin: unset;
+          padding: 40px 20px 0 20px; } }
+    body .container #skills, html .container #skills {
+      order: 3;
+      margin-left: -80px; }
+      @media screen and (max-width: 900px) {
+        body .container #skills, html .container #skills {
+          margin: unset;
+          padding: 40px 20px 0 20px; } }
+      body .container #skills .skill-container, html .container #skills .skill-container {
         margin: 0 0 20px 0; }
 
 /*# sourceMappingURL=style.css.map */
