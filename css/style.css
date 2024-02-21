@@ -63,7 +63,8 @@ body, html {
           padding: 0 20px; } }
       body .container #contact #profile-image, html .container #contact #profile-image {
         margin-bottom: 40px;
-        border-radius: 50%; }
+        border-radius: 50%;
+        max-width: 300px; }
       body .container #contact a, html .container #contact a {
         color: #335ec0; }
     body .container #work-experience, html .container #work-experience {
